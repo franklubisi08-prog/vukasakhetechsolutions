@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.nkomaziitechsolutions.co.za/sitemap.xml
+Sitemap: https://vukasakhetechsolutions.co.za/sitemap.xml
