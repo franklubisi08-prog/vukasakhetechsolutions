@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://vukasakhetechsolutions.co.za/</loc></url>
-  <url><loc>https://vukasakhetechsolutions.co.za/index.html</loc></url>
-  <url><loc>https://vukasakhetechsolutions.co.za/about-us.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/website-development.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/cctv-installation.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/it-support.html</loc></url>
@@ -10,5 +8,6 @@
   <url><loc>https://vukasakhetechsolutions.co.za/extra-services.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/request-a-quote.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/previous-work.html</loc></url>
+  <url><loc>https://vukasakhetechsolutions.co.za/about-us.html</loc></url>
   <url><loc>https://vukasakhetechsolutions.co.za/contact.html</loc></url>
 </urlset>
